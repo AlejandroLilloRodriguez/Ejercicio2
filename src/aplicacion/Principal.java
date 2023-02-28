@@ -29,7 +29,7 @@ public class Principal {
         System.out.println("la lista de numeros pares desde 0 hasta " + n + " es " + Matematicas.listaPar(lista2,n));
         System.out.println("el producto escalar de la lista 1 y la lista 2 es " + Matematicas.calcularProductoEscalar(lista, lista3, lista.length-1));
         System.out.println("el numero de fibonacci de " + n + " es " + Matematicas.fibonacci(n));
-        System.out.print("introduce un numero entero");
+        System.out.print("introduce un numero entero :");
         int x = sc.nextInt();
         System.out.println("la relacion aurea entre dos numeros es " + Matematicas.relacionAurea(x));
 
