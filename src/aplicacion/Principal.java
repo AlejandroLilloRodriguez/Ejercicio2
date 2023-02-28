@@ -20,7 +20,7 @@ public class Principal {
         System.out.print("introduce un numero entero");
         int m = sc.nextInt();
         System.out.println("la potencia de " + n + " elevado a " + m + " es " + Matematicas.potencia(n, m));
-        System.out.println("la suma de los elementos de la lista es " + Matematicas.sumaLista(lista, lista.length-1));
+        System.out.println("la suma  de los elementos de la lista es " + Matematicas.sumaLista(lista, lista.length-1));
         System.out.println("la media de los elementos de la lista es " + Matematicas.media(lista, lista.length-1)/lista.length);
         System.out.println("la desviaion tipica de los elementos de la lista es " + desviaciontipica);
         System.out.println("la suma de los numeros pares desde 0 hasta " + n + " es " + Matematicas.sumaPares(n));
