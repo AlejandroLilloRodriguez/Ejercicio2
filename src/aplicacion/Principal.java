@@ -31,7 +31,7 @@ public class Principal {
         System.out.println("el numero de fibonacci de " + n + " es " + Matematicas.fibonacci(n));
         System.out.print("introduce un numero entero :");
         int x = sc.nextInt();
-        System.out.println("la relacion aurea entre dos numeros es " + Matematicas.relacionAurea(x));
+        System.out.println("la relacion  aurea entre dos numeros es " + Matematicas.relacionAurea(x));
 
     }
 }
