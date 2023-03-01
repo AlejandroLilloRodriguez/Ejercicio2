@@ -136,8 +136,9 @@ public class Matematicas {
         }
     }
     public static boolean relacionAurea(double numero){
-        if(fibonacci13(13)/fibonacci12(12)==numero){
-            return  true;
+        double cociente=(double)fibonacci(13)/fibonacci(12);
+            if(Math.abs(cociente-numero)<=0.1){
+                return true;
         }else{
             return false;
         }

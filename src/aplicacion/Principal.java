@@ -11,8 +11,8 @@ public class Principal {
         int[] lista = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int[] lista3 = {1,2,3,4,5,6,7,8,9,10};
         ArrayList lista2 = new ArrayList<>();
-        double media = Matematicas.media(lista,lista.length-1)/lista.length;
-        double alcuadrado = Matematicas.alcuadrado(lista, lista.length-1);
+        double media = (double)Matematicas.media(lista,lista.length-1)/lista.length;
+        double alcuadrado = (double)Matematicas.alcuadrado(lista, lista.length-1);
         double varianza = (alcuadrado / lista.length) - media * media;
         double desviaciontipica = Math.sqrt(varianza);
         System.out.println("la suma de los numeros enteros desde 0 hasta " + n + " es " + Matematicas.suma(n));
@@ -31,7 +31,7 @@ public class Principal {
         System.out.println("el numero de fibonacci de :" + n + " es " + Matematicas.fibonacci(n));
         System.out.print("introduce un numero entero :");
         int x = sc.nextInt();
-        System.out.println("la relacion  aurea entre dos numeros es " + Matematicas.relacionAurea(x));
+        System.out.println("la relacion  aurea entre dos numeros es " + Matematicas.relacionAurea((1+Math.sqrt(5))/2));
 
     }
 }

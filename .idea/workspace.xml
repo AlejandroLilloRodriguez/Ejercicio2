@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8303dca-d99c-4e21-8b96-0dcb5849dcaf" name="Changes" comment="Ejercicio 2" />
+    <list default="true" id="f8303dca-d99c-4e21-8b96-0dcb5849dcaf" name="Changes" comment=" Ejercicio 2 terminado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aplicacion/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aplicacion/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dominio/Matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dominio/Matematicas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Usuario/Programacion/ejerciciosprogra2/Ejercicio2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +46,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Ejercicio2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Ejercicio2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677575700374</updated>
       <workItem from="1677575701538" duration="3653000" />
+      <workItem from="1677656172534" duration="1185000" />
+      <workItem from="1677661990388" duration="2312000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 2 terminado">
       <created>1677606021071</created>
@@ -100,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677606473935</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" Ejercicio 2 terminado">
+      <created>1677656263970</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677656263970</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio 2 terminado" />
     <MESSAGE value="Ejercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2" />
+    <MESSAGE value=" Ejercicio 2 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Ejercicio 2 terminado" />
   </component>
 </project>
