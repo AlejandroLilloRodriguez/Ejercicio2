@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8303dca-d99c-4e21-8b96-0dcb5849dcaf" name="Changes" comment="Ejercicio 2 terminado" />
+    <list default="true" id="f8303dca-d99c-4e21-8b96-0dcb5849dcaf" name="Changes" comment="Ejercicio 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677575700374</updated>
-      <workItem from="1677575701538" duration="3280000" />
+      <workItem from="1677575701538" duration="3653000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio 2 terminado">
       <created>1677606021071</created>
@@ -65,7 +65,42 @@
       <option name="project" value="LOCAL" />
       <updated>1677606186305</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio 2 terminado">
+      <created>1677606244434</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677606244434</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio 2 terminado">
+      <created>1677606327500</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677606327500</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ejercicio 2 terminado">
+      <created>1677606354103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677606354103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ejercicio 2 terminado">
+      <created>1677606387962</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677606387962</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ejercicio 2">
+      <created>1677606473935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677606473935</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio 2 terminado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2 terminado" />
+    <MESSAGE value="Ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2" />
   </component>
 </project>
